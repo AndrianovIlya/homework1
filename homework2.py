@@ -2,9 +2,9 @@ import random
 T = 'y'
 while T == 'y' or T == 'Y':
     print('1. Задача 1.')
-    print('1. Задача 2.')
-    print('1. Задача 3.')
-    print('1. Задача 4.')
+    print('2. Задача 2.')
+    print('3. Задача 3.')
+    
     n = int(input('Введите номер задачи: '))
     if n == 1:
         k = 'y'
